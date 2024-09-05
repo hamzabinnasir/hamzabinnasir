@@ -1,7 +1,7 @@
 ## About Me
 - **Name:** Hamza Bin Nasir
 - **Role:** Frontend Web Developer
-- **Skills:** Proficient in HTML, CSS, JavaScript, React.js, and GSAP.
+- **Skills:** Proficient in HTML, CSS, JavaScript, React.js, Gsap, SCSS, Bootstrap, Material Ui, Git & GitHub.
 - **Passion:** Creating responsive, user-friendly web interfaces that provide seamless user experiences.
 - **Projects:** Experienced in building dynamic websites and web applications.
 - **Education:** Pursuing a Bachelor of Science in Computer Science at Agriculture University of Faisalabad.
