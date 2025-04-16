@@ -1,9 +1,9 @@
 ## About Me
 - **Name:** Hamza Bin Nasir
-- **Role:** Frontend Web Developer
-- **Skills:** Proficient in HTML, CSS, JavaScript, React.js, Gsap, SCSS, Bootstrap, Material Ui, Git & GitHub.
+- **Role:** MERN Stack Web Developer
+- **Skills:** Proficient in HTML, CSS, JavaScript, React.js, Gsap, SCSS, Git & GitHub, MongoDB, Express, and Node.js. 
 - **Passion:** Creating responsive, user-friendly web interfaces that provide seamless user experiences.
 - **Projects:** Experienced in building dynamic websites and web applications.
 - **Education:** Pursuing a Bachelor of Science in Computer Science at Agriculture University of Faisalabad.
-- **Certifications:** Certified from Saylani Mass IT Training Program (SMIT) in Frontend Development.
+- **Certifications:** Certified from Saylani Mass IT Training Program (SMIT).
 - **Goal:** Continuously learning and exploring new technologies to refine my skills and stay ahead in the web development industry.
